@@ -13,7 +13,7 @@ logo = ("""\033[132m
 \033[1;32m╔══════════════════════════════════════════════════════════╗
 \033[1;32m║	  
 \033[1;31m║   
-\033[1;33m║      ZAHID BALOCH
+\033[1;33m║      HANIYA BALOCH
 \033[1;34m║  
 \033[1;35m║  
 \033[1;38m║  
@@ -23,17 +23,17 @@ logo = ("""\033[132m
 \033[1;32m╔══════════════════════════════════╗╔══════════════════════╗
 \033[1;32m║NOTE : \033[37;41mTHIS TOOLS IS FREE\033[0;m\033[1;32m         ║║        \x1b[1;91m___T_\033[1;32m         ║
 \033[1;33m║══════════════════════════════════║║       \x1b[1;91m| o o |\033[1;32m        ║
-\033[1;34m║AUTHOR    : Mr. ZAHID           ║║       \x1b[1;91m|__-__|\033[1;32m        ║
+\033[1;34m║AUTHOR    : HANIYA BALOCH           ║║       \x1b[1;91m|__-__|\033[1;32m        ║
 \033[1;35m║══════════════════════════════════║║       \x1b[1;91m/| []|'\033[1;32m        ║
-\033[1;36m║WHATSAPP  :         ║║     \x1b[1;91m()/|___|\()\033[1;32m      ║
+\033[1;36m║WHATSAPP  : +1 (906)  523-3365        ║║     \x1b[1;91m()/|___|\()\033[1;32m      ║
 \033[1;37m║══════════════════════════════════║║        \x1b[1;91m|_|_|\033[1;32m         ║
-\033[1;38m║GITHUB    : Mr-ZAHID      ║║       \x1b[1;91m|_| |_|\033[1;32m        ║
+\033[1;38m║GITHUB    : Haniyabaloch0786     ║║       \x1b[1;91m|_| |_|\033[1;32m        ║
 \033[1;39m║══════════════════════════════════║║                      ║
 \033[1;31m║SERVER    : DATA - WIFI WORKING   ║╚══════════════════════╝
 \033[1;32m║══════════════════════════════════════════════════════════╗
-\033[1;33m║FACEBOOK LINK : \x1b[1;91mhttps://www.faceboobcomhttps://www.facebook.com/profile.php?id=100088021025412\033[1;32m  ║
+\033[1;33m║FACEBOOK LINK : \x1b[1;91mhttps://www.facebook.com/Shahzadi.Pari786\033[1;32m  ║
 \033[1;34m║══════════════════════════════════════════════════════════║
-\033[1;35m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/https://www.facebook.com/profile.php?id=100088021025412\033[1;32m    ║
+\033[1;35m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100079419745242\033[1;32m    ║
 \033[1;36m╚══════════════════════════════════════════════════════════╝\033[1;37m""")
 def ud():
     os.system('clear')
@@ -208,7 +208,7 @@ logo = ("""\033[132m
 \033[1;32m║══════════════════════════════════════════════════════════╗
 \033[1;36m║FACEBOOK LINK : \x1b[1;91mhttps://www.facebook.com/Shahzadi.Pari786\033[1;32m  ║
 \033[1;32m║══════════════════════════════════════════════════════════║
-\033[1;37m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100064995394244/ \033[1;32m    ║
+\033[1;37m║FB PAGE LINK  : \x1b[1;91mhttps://www.facebook.com/profile.php?id=100079419745242/ \033[1;32m    ║
 \033[1;32m╚══════════════════════════════════════════════════════════╝\033[1;37m\n""")
 loop = 0
 oks = []
@@ -360,7 +360,7 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('    \033[1;32m(ZAHID-OK😍)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
+                print('    \033[1;32m(HANIYA-OK😍)  ' +cid+ ' | ' +ps+    '  \n \033[1;33mCookie = \033[1;32m'+coki+  ' \n '+pro+'  \033[0;97m')
                 cek_apk(session,coki)
                 open('/sdcard/HANIYA-OK.txt', 'a').write( cid+' | '+ps+'\n')
                 oks.append(cid)
